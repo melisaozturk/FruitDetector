@@ -124,7 +124,7 @@ extension ViewController : UIImagePickerControllerDelegate, UINavigationControll
             return
         }
             
-//        print(image.size)
+        print(image.size)
         
     }
     
