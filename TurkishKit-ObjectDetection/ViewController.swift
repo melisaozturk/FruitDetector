@@ -124,9 +124,8 @@ extension ViewController : UIImagePickerControllerDelegate, UINavigationControll
             return
         }
             
-        // print out the image size as a test
-        print(image.size)
-            
+//        print(image.size)
+        
     }
     
     func imagePickerControllerDidCancel(_ picker: UIImagePickerController) {
